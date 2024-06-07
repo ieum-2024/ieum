@@ -129,13 +129,16 @@
 ### 사용한 클라우드
 
 - AWS S3 Bucket: 이미지 업로드
+<img width="997" alt="s3Bucket" src="https://github.com/ieum-2024/ieum-backend/assets/83132869/58979b84-0ff4-4170-a995-16c0bd7715ef">
 
 - AWS EC2 Instance: 프로젝트 배포
+![EC2](https://github.com/ieum-2024/ieum-backend/assets/83132869/d42a3aaf-79e5-4091-bbe3-75ffb5bf1891)
 
 - AWS RDS(MySQL): 데이터 저장
+![RDS](https://github.com/ieum-2024/ieum-backend/assets/83132869/f24340f8-e1dc-41ad-aa69-db3543c8d6df)
 
 - Firebase Realtime Database: 채팅 구현
-
+![firebase](https://github.com/ieum-2024/ieum-backend/assets/83132869/00a91034-59b0-415e-a77a-0adefe92d9d1)
 
 ## 실행 및 사용 방법
 
